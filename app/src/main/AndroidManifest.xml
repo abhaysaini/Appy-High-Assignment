@@ -30,7 +30,7 @@
 
                 <data
                     android:scheme="https"
-                    android:host="chutia.com"
+                    android:host="example.com"
                     />
             </intent-filter>
 
@@ -41,7 +41,7 @@
 
                 <data
                     android:scheme="http"
-                    android:host="chutia.com"
+                    android:host="example.com"
                     />
             </intent-filter>
 
